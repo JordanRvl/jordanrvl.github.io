@@ -1,4 +1,4 @@
-## Link 
+## Links 
 
 | Name         | Slides (pdf) | Webpage | Download |
 |--------------|-----------|------------|------------|
